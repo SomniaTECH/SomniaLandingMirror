@@ -3,20 +3,20 @@
    ======================================== */
 
 @font-face {
-    font-family: 'TransformaSans';
-    src: url('../fonts/Transforma.ttf') format('truetype');
+    font-family: 'Unbounded';
+    src: url('../fonts/Unbounded-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 :root {
-    --primary-color: #4a90e2;
-    --secondary-color: #7bb3e8;
+    --primary-color: #628ecb;
+    --secondary-color: #b1c9ef;
     --sky-light: #e3f2fd;
     --sky-lighter: #f5f9ff;
-    --dark-color: #333333;
-    --light-color: #f8fbff;
-    --accent-blue: #5ba3e8;
+    --dark-color: #4a4a4a;
+    --light-color: #f0f3fa;
+    --accent-blue: #395886;
 }
 
 * {
@@ -26,7 +26,7 @@
 }
 
 body {
-    font-family: 'TransformaSans', 'Inter', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Unbounded', 'Inter', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: var(--dark-color);
     overflow-x: hidden;
     opacity: 0;
