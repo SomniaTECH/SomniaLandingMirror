@@ -7,5 +7,5 @@ Disallow: /private/
 Crawl-delay: 1
 
 # Указываем карту сайта
-Sitemap: https://xn--80ahg3afob.рф/sitemap.xml
+Sitemap: https://xn--h1ahdco2g.xn--p1ai
 
