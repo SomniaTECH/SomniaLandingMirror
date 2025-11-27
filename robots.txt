@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+
+# Задержка между запросами
+Crawl-delay: 1
+
+# Указываем карту сайта
+Sitemap: https://xn--80ahg3afob.рф/sitemap.xml
+
